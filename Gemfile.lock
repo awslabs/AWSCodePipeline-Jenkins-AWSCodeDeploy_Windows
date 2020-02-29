@@ -3,10 +3,11 @@ GEM
   specs:
     haml (4.0.6)
       tilt
-    rake (10.4.2)
+    rake (12.3.3)
     tilt (2.0.1)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
