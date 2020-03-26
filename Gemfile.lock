@@ -1,10 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    haml (4.0.6)
+    haml (5.0.0)
+      temple (>= 0.8.0)
       tilt
     rake (12.3.3)
-    tilt (2.0.1)
+    temple (0.8.2)
+    tilt (2.0.10)
 
 PLATFORMS
   ruby
